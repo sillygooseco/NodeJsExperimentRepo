@@ -9,7 +9,7 @@ This repo includes experiments and test code for the following
 </br></br>
 
 ## Purpose
----
+
 The main purpose of this exercise is to setup some ground work, experiment, explore development methods, assess viability of technologies and architectures for a large scale Open Public API 
 
 **Working title : Project [Astrolabe](https://en.wikipedia.org/wiki/Astrolabe)**
@@ -43,7 +43,7 @@ _``All knowledge learned through this experimentation will be combined together 
 </br></br>
 
 ## SCOPE
----
+
 The Scope of this repo will initially include 
 
 1. __Node.JS__
@@ -90,7 +90,7 @@ Here are some branching and commenting standards
 </br></br>
 
 ## Branching
----
+
 The main branches will be. 
 
 1. main (master branch)
@@ -120,14 +120,14 @@ _``disclaimer: This repo is purely for learning and experimentation include auth
 </br></br>
 
 ## Comments
----
+
 All code should include inline comments and should follow standard coding conventions without [code smells](https://en.wikipedia.org/wiki/Code_smell)
 
 Do update the read me files.
 </br></br>
 
 ## Versioning
----
+
 
 Update versioning where applicable, with the standard [semantic versioning 2.0.0](https://semver.org/) or simply put
 
@@ -147,10 +147,11 @@ For instance:
 | patch Version  | 2.5.1         | 
 | Minor Feature  | 2.6.0         | 
 | Major Feature  | 3.0.0         | 
+
 </br></br>
 
 ## Commits
----
+
 All Commits messages will be suffixed by the purpose of the commit
 
 | Prefix    | Description                               | Example                    | 
